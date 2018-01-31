@@ -9,7 +9,7 @@
 title: Ten Oak Consulting
 email: consulting@tenoaksoftware.com
 description: > # this means to ignore newlines until "baseurl:"
-  Software consulting. Amazon Web Services, AWS, Clojure, ClojureScript, SaaS
+  Software Consulting, SaaS, Cloud, Software Systems, Business Software
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tenoaksoftware.com" # the base hostname & protocol for your site
 
